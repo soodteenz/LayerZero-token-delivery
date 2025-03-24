@@ -1,0 +1,28 @@
+{
+  "testnet": {
+    "sepolia": {
+      "endpoint": "0xae92d5aD7583AD66E49A0c67BAd18F6ba52dDDc1",
+      "chainId": 10161,
+      "delivery": "0xe545850785CEB4dF25D90A2CD9310F73b337B525",
+      "wrapper": "0x3d2e9a7c8935C9BDBf703262636132e55D567CD0"
+    },
+    "arbitrum": {
+      "endpoint": "0x6aB5Ae6822647046626e83ee6dB8187151E1d5ab",
+      "chainId": 10143,
+      "delivery": "0x7700D8f23a188b57fBce4F1b111B9235F6B6BB60",
+      "wrapper": "0x0e168f32Ab89057180F5BdCBf1ef6acA8fD19641"
+    },
+    "optimism": {
+      "endpoint": "0xae92d5aD7583AD66E49A0c67BAd18F6ba52dDDc1",
+      "chainId": 10132,
+      "delivery": "",
+      "wrapper": ""
+    },
+    "mumbai": {
+      "endpoint": "0xf69186dfBa60DdB133E91E9A4B5673624293d8F8",
+      "chainId": 10109,
+      "delivery": "0xB6012760CDd218A0DEF4400fdEEfFB9a0aC29dcc",
+      "wrapper": "0x7C8F1949CBB1EaEC229d6436325DF833DCbd3B49"
+    }
+  }
+}
